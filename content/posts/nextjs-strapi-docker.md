@@ -15,7 +15,9 @@ color = "" #color from the theme settings
 
 # Monter une app web avec Next.js et strapi avec docker
 
-Dans cet article, nous allons résumer nos échanges avec un IA, en mettant en lumière les étapes clés de la création d'un projet Next.js avec Strapi et Docker.
+L’objectif de se projet est de ce familiariser avec des technos que je connais sur le papier mais que je n’ai pas encore éprouvé, je suis développeur fullstack JS (react, nodejs) avec une affinité pour le devops.
+
+Je vais donc pas à pas monter ce blog, qui sera à terme un vrai projet en production (je vous en parle bientôt)
 
 Je vous présente rapidement la stack que nous allons mettre en place :
 
