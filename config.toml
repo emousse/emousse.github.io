@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = ""Emousse - Le Futur du Web, de l'IA et de l'Accessibilité Inclusive""
+    title = "emousse - Le Futur du Web, de l'IA et de l'Accessibilité Inclusive"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
