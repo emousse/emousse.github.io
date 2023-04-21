@@ -81,7 +81,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Emousse"
+      logoText = "emousse"
       logoHomeLink = "/"
 
     [languages.en.menu]
